@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la .. /boot
+ls -alh --color=auto . ../ /boot
