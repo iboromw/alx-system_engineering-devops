@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -alh --block-size=K --color=auto . ../ /boot
+ls -a . .. /boot -l
